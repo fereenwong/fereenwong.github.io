@@ -43,7 +43,7 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
 
 
 ## Awards
-Excellent Undergraduate Thesis of South China Normal University, 2018
+Excellent Master Thesis of South China Normal University, 2018
 
 Excellent Graduate of South China Normal University, 2018
       
