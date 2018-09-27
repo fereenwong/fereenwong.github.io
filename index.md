@@ -46,12 +46,4 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
 Excellent Undergraduate Thesis of South China Normal University, 2018
 
 Excellent Graduate of South China Normal University, 2018
-
-
-<div align="center">
-        <strong>This page has been visited for
-          <a href="http://www.amazingcounters.com" target="_blank" rel="external">
-            <img border="0" src="http://cc.amazingcounters.com/counter.php?i=3221443&c=9664642" alt="AmazingCounters.com">
-          </a> times</strong>
-      </div>
       
