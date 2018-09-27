@@ -13,11 +13,10 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <ul>
         <li>
           Doctor of Philosophy (Ph.D), Computer Science</li>
-         
         <li>
           Advisor: Prof. Jinhui Tang</li>
-         
-      </ul>      
+      </ul>    
+      <br />
       </div>
 <div align="left">
         <strong> South China Normal University, Guangzhou, China (Sep 2016 - Jun 2018) </strong>
@@ -27,8 +26,8 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <ul>
         <li>
           Master of Engineering (M.E), Software Engineering</li>
-         
-      </ul>      
+      </ul>   
+      <br />
       </div>
 <div align="left">
         <strong> Hunan First Normal University, Changsha, China (Sep 2012 - Jun 2016) </strong>
@@ -38,8 +37,8 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <ul>
         <li>
           Bachelor of Science (B.S), Mathematics and Applied Mathematics</li>
-         
-      </ul>      
+      </ul>    
+      <br />
       </div>
 
 
