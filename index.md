@@ -17,6 +17,26 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
           Advisor: Prof. Jinhui Tang</li>
       </ul>      
       </div>
+<div align="left">
+        <strong> South China Normal University, Guangzhou, China (Sep 2016 - Jun 2018) </strong>
+          <a href="http://www.scnu.edu.cn/" target="_blank" rel="external">
+            <img border="0" src="South_China_Normal_University_logo.png" align="right" width="70" height="70">
+          </a> 
+        <ul>
+        <li>
+          Master of Engineering (M.E), Software Engineering</li>
+      </ul>      
+      </div>
+<div align="left">
+        <strong> Hunan First Normal University, Changsha, China (Sep 2012 - Jun 2016) </strong>
+          <a href="http://www.hnfnu.edu.cn/" target="_blank" rel="external">
+            <img border="0" src="Hunan_First_Normal_University_logo.jpg" align="right" width="70" height="70">
+          </a> 
+        <ul>
+        <li>
+          Bachelor of Science (B.S), Mathematics and Applied Mathematics</li>
+      </ul>      
+      </div>
       
 <div align="left">
         <strong> Nanjing University of Science and Technology, Jiangsu, China (Sep 2018 - Now) </strong>
@@ -31,28 +51,7 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
       </ul>      
       </div>
 
-<div align="left">
-        <strong> South China Normal University, Guangzhou, China (Sep 2016 - Jun 2018) </strong>
-          <a href="http://www.scnu.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="South_China_Normal_University_logo.png" align="right" width="70" height="70">
-          </a> 
-        <ul>
-        <li>
-          Master of Engineering (M.E), Software Engineering</li>
-      </ul>      
-      </div>
 
- <div align="left">
-        <strong> Hunan First Normal University, Changsha, China (Sep 2012 - Jun 2016) </strong>
-          <a href="http://www.hnfnu.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="Hunan_First_Normal_University_logo.jpg" align="right" width="70" height="70">
-          </a> 
-        <ul>
-        <li>
-          Bachelor of Science (B.S), Mathematics and Applied Mathematics</li>
-      </ul>      
-      </div>
-      
 ## Awards
 Excellent Undergraduate Thesis of South China Normal University, 2018
 
