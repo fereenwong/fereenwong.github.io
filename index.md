@@ -13,8 +13,10 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <ul>
         <li>
           Doctor of Philosophy (Ph.D), Computer Science</li>
+         
         <li>
           Advisor: Prof. Jinhui Tang</li>
+         
       </ul>      
       </div>
 <div align="left">
@@ -25,6 +27,7 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <ul>
         <li>
           Master of Engineering (M.E), Software Engineering</li>
+         
       </ul>      
       </div>
 <div align="left">
@@ -35,6 +38,7 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <ul>
         <li>
           Bachelor of Science (B.S), Mathematics and Applied Mathematics</li>
+         
       </ul>      
       </div>
 
