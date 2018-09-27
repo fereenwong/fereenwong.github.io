@@ -2,19 +2,19 @@
 layout: default
 ---
 ## About Me
-I'm Jiyang Gao (高继扬), currently a 3rd-year PhD candidate at University of Southern California, advised by [Prof. Ram Nevatia](http://iris.usc.edu/people/nevatia/). My research focus on computer vision, especially on **temporal perception and reasoning** in videos. I obtained my B.S. degree from Tsinghua University in 2015. I did internship at Sensetime in 2015 and at Google Research during 2017 summer, I will spend 2018 summer at Google Cloud AI.
+I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Science and Engineering, Nanjing University of Science and Technology. Supervised by [Prof. Jinhui Tang](http://cs.njust.edu.cn/23/d5/c1730a9173/page.htm). My research interests include multimedia analysis and computer vision, with a focus on saliency detection and image annotation. I obtained my M.S. degree from South China Normal University in 2018 and B.S. degree from Hunan First Normal University in 2016. 
 
 ## Education
 <div align="left">
-        <strong> University of Southern California, Los Angeles, USA (Aug 2015 - Now) </strong>
+        <strong> Nanjing University of Science and Technology, Jiangsu, China (Sep 2018 - Now) </strong>
           <a href="https://www.usc.edu/" target="_blank" rel="external">
             <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
-          Doctor of Philosophy (Ph.D), Electrical Engineering</li>
+          Doctor of Philosophy (Ph.D), Computer Science</li>
         <li>
-          Advisor: Prof. Ram Nevatia</li>
+          Advisor: Prof. Jinhui Tang</li>
       </ul>      
       </div>
 
