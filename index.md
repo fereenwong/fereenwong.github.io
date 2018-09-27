@@ -14,7 +14,7 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <li>
           Doctor of Philosophy (Ph.D), Computer Science</li>
         <li>
-          Advisor: [Prof. Jinhui Tang](http://cs.njust.edu.cn/23/d5/c1730a9173/page.htm)</li>
+          Advisor: <a href="http://cs.njust.edu.cn/23/d5/c1730a9173/page.htm">Prof. Jinhui Tang</a></li>
       </ul>    
       <br />
       </div>
@@ -27,7 +27,7 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
         <li>
           Master of Engineering (M.E), Software Engineering</li>
          <li>
-          Advisor: [Prof. Qingzhen Xu](http://www.scholat.com/xvqingzheng.en)</li>
+          Advisor: <a href="http://www.scholat.com/xvqingzheng.en">Prof. Qingzhen Xu</a></li>
       </ul>   
       <br />
       </div>
