@@ -37,19 +37,6 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
           Bachelor of Science (B.S), Mathematics and Applied Mathematics</li>
       </ul>      
       </div>
-      
-<div align="left">
-        <strong> Hunan First Normal University, Changsha, China (Sep 2012 - Jun 2016) </strong>
-          <a href="http://www.hnfnu.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="Hunan_First_Normal_University_logo.jpg" align="right" width="70" height="70">
-          </a> 
-        <ul>
-        <li>
-          Doctor of Philosophy (Ph.D), Computer Science</li>
-        <li>
-          Advisor: Prof. Jinhui Tang</li>
-      </ul>      
-      </div>
 
 
 ## Awards
