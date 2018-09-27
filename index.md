@@ -39,9 +39,9 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
       </div>
       
 <div align="left">
-        <strong> Nanjing University of Science and Technology, Jiangsu, China (Sep 2018 - Now) </strong>
-          <a href="http://www.njust.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="NJUST.jpg" align="right" width="70" height="70">
+        <strong> Hunan First Normal University, Changsha, China (Sep 2012 - Jun 2016) </strong>
+          <a href="http://www.hnfnu.edu.cn/" target="_blank" rel="external">
+            <img border="0" src="Hunan_First_Normal_University_logo.jpg" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
