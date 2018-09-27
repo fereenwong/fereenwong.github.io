@@ -5,6 +5,19 @@ layout: default
 I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Science and Engineering, Nanjing University of Science and Technology. Supervised by [Prof. Jinhui Tang](http://cs.njust.edu.cn/23/d5/c1730a9173/page.htm). My research interests include multimedia analysis and computer vision, with a focus on saliency detection and image annotation. I obtained my M.E degree from South China Normal University in 2018 and B.S degree from Hunan First Normal University in 2016. 
 
 ## Education
+ <div align="left">
+        <strong> Nanjing University of Science and Technology, Jiangsu, China (Sep 2018 - Now) </strong>
+          <a href="http://www.njust.edu.cn/" target="_blank" rel="external">
+            <img border="0" src="NJUST.jpg" align="right" width="70" height="70">
+          </a> 
+        <ul>
+        <li>
+          Doctor of Philosophy (Ph.D), Computer Science</li>
+        <li>
+          Advisor: Prof. Jinhui Tang</li>
+      </ul>      
+      </div>
+      
 <div align="left">
         <strong> Nanjing University of Science and Technology, Jiangsu, China (Sep 2018 - Now) </strong>
           <a href="http://www.njust.edu.cn/" target="_blank" rel="external">
