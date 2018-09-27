@@ -29,7 +29,7 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
       </ul>      
       </div>
 
-<div align="left">
+ <div align="left">
         <strong> Hunan First Normal University, Changsha, China (Sep 2012 - Jun 2016) </strong>
           <a href="http://www.hnfnu.edu.cn/" target="_blank" rel="external">
             <img border="0" src="Hunan_First_Normal_University_logo.jpg" align="right" width="70" height="70">
