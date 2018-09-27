@@ -7,8 +7,8 @@ I'm Fengyun Wang (王凤云), a Ph.D. Candidate at the School of Computer Scienc
 ## Education
 <div align="left">
         <strong> Nanjing University of Science and Technology, Jiangsu, China (Sep 2018 - Now) </strong>
-          <a href="https://www.usc.edu/" target="_blank" rel="external">
-            <img border="0" src="usc_logo.jpg" align="right" width="70" height="70">
+          <a href="http://www.njust.edu.cn/" target="_blank" rel="external">
+            <img border="0" src="NJUST.jpg" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
